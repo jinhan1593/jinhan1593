@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jin Han!
-- 👀 I’m interested in software engineering, entrepreneurship, and finance 
-- 🌱 I’m currently learning machine learning, data structures & algorithms, and databases.
-- 💞️ I’m looking to collaborate on building software products that'll serve to lead society to the right direction. 
+- 👀 I’m interested in software engineering, entrepreneurship, and investing!
+- 🌱 I’m currently learning optimization, data structures & algorithms, and databases.
+- 💞️ I’m looking to collaborate on building software products that'll lead society to the right direction. 
 - 📫 How to reach me jingyuhan0014@gmail.com or find me on LinkedIn! @ http://www.linkedin.com/hanjingyu
 
 <!---

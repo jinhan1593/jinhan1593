@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jin Han!
+- 👋 Hi, I’m Jin!
 - 👀 I’m interested in software engineering, entrepreneurship, and investing!
 - 🌱 I’m currently learning optimization, data structures & algorithms, and databases.
 - 💞️ I’m looking to collaborate on building software products that'll lead society to the right direction. 

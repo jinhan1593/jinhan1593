@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jin!
-- 👀 I’m interested in data anaylsis, entrepreneurship, and investing(finance)!
+- 👀 I’m interested in data anaylsis (marketing), entrepreneurship, and investing(finance)!
 - 🌱 I’m currently learning optimization and databases.
 - 💞️ I’m looking to collaborate on building software products that'll lead society to the right direction. 
 - 📫 How to reach me jingyuhan0014@gmail.com or find me on LinkedIn! @ http://www.linkedin.com/hanjingyu
